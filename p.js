@@ -48,7 +48,7 @@ git.addEventListener("click",(event)=>{
 const bSite = document.getElementById('b-site')
 bSite.addEventListener("click",(event)=>{
     event.preventDefault();
-    var urlToOpen = "https://chandru070.github.io/first-Design/"
+    var urlToOpen = "https://harii10.github.io/landing-page/"
     window.open(urlToOpen,'_blank')
 })
 
