@@ -35,13 +35,13 @@ const git = document.getElementById('git')
 
 link.addEventListener('click',(event)=> {
     event.preventDefault();
-    var urlToOpen = "www.linkedin.com/in/hariharachandru-v-747ba0265"
+    var urlToOpen = "https://www.linkedin.com/in/hariharachandru-front-end-developer/"
     window.open(urlToOpen,'_blank')
   });
 
 git.addEventListener("click",(event)=>{
     event.preventDefault();
-    var urlToOpen = "https://github.com/Chandru070"
+    var urlToOpen = "https://github.com/Harii10"
     window.open(urlToOpen,'_blank')
 })  
 
